@@ -5,7 +5,8 @@
 
 ##### how to use
 - npm install -g beefy browserify 
+- **npm install -g [watchify](https://www.npmjs.com/package/watchify)** (Optional)  for faster bundle rebuilds as you develop
 
 ##### start the beefy server
-
 - beefy main.js:bundle.js \[port\] (default: 9966)
+- watchify main.js -o bundle.js -v
