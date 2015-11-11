@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/solnet-ead/browserify_demo#readme",
   "devDependencies": {
+    "angular": "^1.4.7",
+    "angular-ui-bootstrap": "^0.14.3",
     "browserify": "^12.0.1",
+    "colors": "^1.1.2",
     "uniq": "^1.0.1"
   }
 }
