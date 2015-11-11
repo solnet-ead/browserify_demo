@@ -16,6 +16,7 @@
 - A **[angular-ui-bootstrap](http://angular-ui.github.io/bootstrap/)** demo implemented by Browserify 
 - how to run
   - 1. **_npm install -g browserfiy beefy watchify_**
-  - 2. **_watchify uibsDemo.js -o bundle.js -v_**
-  - 3. **_beefy index.html_**
-  - 4. open 'localhost:9966' in your favourite browser & have fun :-)
+  - 2. **_npm install**
+  - 3. **_watchify uibsDemo.js -o bundle.js -v_**
+  - 4. **_beefy index.html_**
+  - 5. open 'localhost:9966' in your favourite browser & have fun :-)
