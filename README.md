@@ -18,4 +18,4 @@
   - 1. **_npm install -g browserfiy beefy watchify_**
   - 2. **_watchify uibsDemo.js -o bundle.js -v_**
   - 3. **_beefy index.html_**
-  - 4. open 'localhost:9966' & have fun :-)
+  - 4. open 'localhost:9966' in your favourite browser & have fun :-)
